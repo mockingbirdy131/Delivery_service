@@ -1,5 +1,3 @@
-```sql`
-
 WITH 
 users_count AS
 (
